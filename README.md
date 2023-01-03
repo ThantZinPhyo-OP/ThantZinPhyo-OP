@@ -7,7 +7,7 @@ Currently Learning React.JS , HTML, CSS , Tailwind CSS
 
 Mobile & Other Content Publish On YouTube Channel (Burma Rom)
 
-Graduated & Learn From Kyaukse University , Network Engineering at IMCS EC-Council Accredited Training Center
+Graduated & Learn From Kyaukse University , IMCS EC-Council Accredited Training Center
 
 
 
