@@ -15,7 +15,7 @@ Graduated & Learn From Kyaukse University , IMCS EC-Council Accredited Training 
  
 
  [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@burmarom/featured)
- [![Github Badge](https://img.shields.io/badge/Github-E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThantZinPhyo-OP) 
+ [![Linkedin Badge](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thantzinphyo11/) 
  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thantzin.phyo.18) 
  [![Twitter Badge](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThantZinPhyoBR) 
  
