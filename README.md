@@ -1,7 +1,7 @@
 Hi 👋, I'm Thant Zin Phyo
 
 
-A Freelance Front-End Web Developer From Burma.
+A Freelance Web Designer From Burma.
 
 Currently Learning React.JS , HTML, CSS , Tailwind CSS
 
